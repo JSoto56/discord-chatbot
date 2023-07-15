@@ -1,0 +1,24 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Discord chatbot utilizing ChatGPT & Discord API's.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSoto56/discord-chatbot.git"
+  },
+  "author": "Joseph Soto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSoto56/discord-chatbot/issues"
+  },
+  "homepage": "https://github.com/JSoto56/discord-chatbot#readme",
+  "dependencies": {
+    "discord-chat-gpt": "^2.0.1",
+    "discord.js": "^14.11.0"
+  }
+}
